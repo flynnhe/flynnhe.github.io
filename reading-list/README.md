@@ -29,12 +29,12 @@ Please add changes there.
 
 
 # Reading List
-![](https://raw.githubusercontent.com/bamos/reading-list/gh-pages/img/reading-list.gif)
+![](https://raw.githubusercontent.com/flynnhe/reading-list/gh-pages/img/reading-list.gif)
 
 This repository contains my open source reading list.
 I keep track of books by editing the files here and
 the results are automatically published as a website at
-[http://bamos.github.io/reading-list](http://bamos.github.io/reading-list).
+[http://flynnhe.github.io/reading-list](http://flynnhe.github.io/reading-list).
 
 # Goals
 + Plaintext and friendly data format.
@@ -58,7 +58,7 @@ the results are automatically published as a website at
 2. Update the [data](/data)
   and personalize [index.html](/index.html).
   Push your changes to GitHub to see them immediately on the new site.
-3. Replace links to http://bamos.github.io/reading-list with your URL.
+3. Replace links to http://flynnhe.github.io/reading-list with your URL.
 
 # Local Deployment
 Most browsers will not be able to open `index.html` directly
@@ -122,7 +122,7 @@ Name | Stargazers | Description
 
 # Credits and Licensing
 All portions are
-[MIT licensed](https://github.com/bamos/reading-list/blob/gh-pages/LICENSE.mit)
+[MIT licensed](https://github.com/flynnhe/reading-list/blob/gh-pages/LICENSE.mit)
 by Brandon Amos unless otherwise noted.
 
 This project uses and modifies the following open source projects

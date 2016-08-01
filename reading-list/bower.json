@@ -1,9 +1,9 @@
 {
   "name": "reading-list",
   "version": "0.0.0",
-  "homepage": "https://github.com/bamos/reading-list",
+  "homepage": "https://github.com/flynnhe/reading-list",
   "authors": [
-    "Brandon Amos <bamos@cs.cmu.edu>"
+    "Brandon Amos <flynnhe@cs.cmu.edu>"
   ],
   "license": "MIT",
   "ignore": [

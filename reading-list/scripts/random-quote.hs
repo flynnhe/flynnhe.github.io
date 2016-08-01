@@ -10,7 +10,7 @@ the output of this to a command-line mailing program (mutt).
 Appropriate packages can be installed with `cabal`.
 
 Brandon Amos
-http://bamos.github.io
+http://flynnhe.github.io
 2015/04/24
 -}
 
